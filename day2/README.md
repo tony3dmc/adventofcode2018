@@ -1,7 +1,7 @@
 Advent of Code 2018 - Day 2
 ===========================
 
-Today's chosen language: *Perl*
+Today's chosen language: **Perl**
 
 ## Part 1
 
