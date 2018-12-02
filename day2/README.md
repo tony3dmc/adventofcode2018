@@ -17,5 +17,5 @@ Amusingly, I missed one of the matches, and when I put the wrong answer into AoC
 
 ## Part 2
 
-See the solution file _part2.pl_ for a simple set of loops and a custom compare function, followed by visual inspection to remove the offending character.
+See the solution file [part2.pl](part2.pl) for a simple set of loops and a custom compare function, followed by visual inspection to remove the offending character.
 
